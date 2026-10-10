@@ -1,4 +1,4 @@
-# 🛒 বাজার দর (BazarDor) — Student Guide
+# 🛒 বাজার দর (BazarDor) 
 
 ## তুমি নিজে বানাও! Step-by-Step Guided Walkthrough
 
